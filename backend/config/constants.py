@@ -13,8 +13,9 @@ STATUS = (
 STATUS_DICT = dict(STATUS)
 
 CATEGORIES = (
-    ('hot', 'Hot'),
-    ('cold', 'Cold'),
-    ('bagel', 'Bagel'),
+    ('ALL', 'ALL')
+    ('Langerie', 'Langerie'),
+    ('Swim Suite', 'Swim Suie'),
+    ('Night Gowns', 'Gowns'),
 )
 CATEGORIES_DICT = dict(CATEGORIES)
