@@ -80,13 +80,13 @@ const Home = () => {
                 <a href="/">All</a>
               </li>
               <li>
-                <a href="/?category=hot">langerie</a>
+                <a href="/?category=Langerie">langerie</a>
               </li>
               <li>
-                <a href="/?category=cold">Swim suits</a>
+                <a href="/?category=Swim Suits">Swim suits</a>
               </li>
               <li>
-                <a href="/?category=bagel">Night gowns</a>
+                <a href="/?category=Night Gowns">Night Gowns</a>
               </li>
             </ul>
           </>
